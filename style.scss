@@ -30,19 +30,19 @@ body {
 }
 
 .page-section-yellow {
-  min-height: 100vh;
+  height: auto;
   width: 100%;
   background-color: rgba(254, 214, 133, 0.4);
 }
 
 .page-section-white {
-  min-height: 100vh;
+  height: auto;
   width: 100%;
   background-color: white
 }
 
 .page-section-blue {
-  min-height: 100vh;
+  height: auto;
   width: 100%;
   background-color: rgba(141, 188, 226, 0.5)
 }
@@ -212,11 +212,6 @@ nav > a {
 //
 // .main
 //
-
-.big-text {
-  width: 50%;
-}
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
