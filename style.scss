@@ -48,6 +48,11 @@ body {
   background-color: rgba(141, 188, 226, 0.5)
 }
 
+#mc_embed_signup {
+  background: inherit; 
+  clear:left; 
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
