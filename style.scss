@@ -21,6 +21,7 @@ body {
   background: $white;
   font-family: 'Work Sans', sans-serif;
   color: $darkGray;
+  min-width: 1200px;
 }
 
 .container {
@@ -169,6 +170,11 @@ img {
   height: 75px;
   width: 100%;
   background-color: rgba(254, 214, 133, 0.4)
+}
+
+.social-icon {
+  height: 30px;
+  width: 30px;
 }
 
 nav > a {
